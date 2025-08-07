@@ -32,9 +32,6 @@ There are 4 tables, each containing a 2years transaction records. These datasets
   engagement, and activity levels. These analytical questions provide actionable insights and use of complex SQL techniques to help the company make data-driven decisions, ultimately enhancing their ability to understand and meet
   customer needs.
 
-I provided a detailed explanation of the business impact of these analyses on both the company and the users. Read here: https://medium.com/@abowabat/analytical-exploration-of-fintech-transactions-automation-advanced-analytics-and-fraud-detection-c0bcccec885f
 
-
-Connect with me on LinkedIn - www.linkedin.com/in/taibat-abowaba
 
 
